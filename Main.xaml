@@ -43,7 +43,7 @@ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
             <AssemblyReference>System.Xml</AssemblyReference>
             <AssemblyReference>System.Xml.Linq</AssemblyReference>
             <AssemblyReference>PresentationFramework</AssemblyReference>
-            <AssemblyReference>WindowsBase</AssemblyReference>
+            <AssemblyReference>Almacen</AssemblyReference>
             <AssemblyReference>PresentationCore</AssemblyReference>
             <AssemblyReference>System.Xaml</AssemblyReference>
             <AssemblyReference>UiPath.System.Activities</AssemblyReference>
